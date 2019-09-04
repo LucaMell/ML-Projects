@@ -1,0 +1,4 @@
+# In this project i created a model that could predict the daily revenue in dollars of an ice cream business based on the outside air temperature (degC). 
+Data set:
+- Independant variable X: Outside Air Temperature
+- Dependant variable Y: Overall daily revenue generated in dollars
