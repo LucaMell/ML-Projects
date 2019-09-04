@@ -1,6 +1,6 @@
 # Machine Learning Projects - List Updated 04/09/19
-  ALEXA Sentiment Analysis	
-	Breast Cancer Classification	
+ALEXA Sentiment Analysis	
+Breast Cancer Classification	
 	Cost Per Unit Prediction	
 	Credit Card Fraud Detection	
 	Customer Retirement Prediction	
